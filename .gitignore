@@ -1,0 +1,7 @@
+# Ignore data and cache files
+data/
+*.parquet
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
